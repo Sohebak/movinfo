@@ -12,7 +12,7 @@ import Header from "./components/Header/Header";
 import Footer from "./components/Footer/Footer";
 import Explore from "./pages/explore/Explore";
 import Details from "./pages/details/details";
-import PageNotFound from "./pages/404/pageNotFound";
+import PageNotFound from "./pages/404/PageNotFound";
 import SearchResult from "./pages/searchResult/SearchResult";
 import Person from "./pages/person/Person";
 
