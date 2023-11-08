@@ -1,0 +1,15 @@
+.circleRating {
+    background-color: var(--black);
+    border-radius: 40%;
+    padding: 4px;
+
+    .CircularProgressbar-text {
+        font-size: 34px;
+        font-weight: 700;
+        fill: var(--black);
+    }
+
+    .CircularProgressbar-trail {
+        stroke: transparent;
+    }
+}

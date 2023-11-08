@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="34.924999mm"
+   height="10.583333mm"
+   viewBox="0 0 34.924999 10.583333"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="movix-logo.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.0642455"
+     inkscape:cx="22.191433"
+     inkscape:cy="19.254332"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-82.207384,-117.11873)">
+    <g
+       id="g361"
+       transform="matrix(0.63085988,0,0,0.63085988,39.337137,38.910611)">
+      <g
+         id="g350">
+        <g
+           id="g9387"
+           transform="matrix(0.41638688,0,0,0.41638688,15.5243,103.82932)">
+          <path
+             id="path9369"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.103906;stroke-linecap:round"
+             inkscape:transform-center-x="-7.2603268"
+             inkscape:transform-center-y="-1.1625789e-05"
+             d="m 134.15977,55.940771 v 3.562574 l 3.86746,2.232938 v -0.18035 -3.381706 z m 3.86746,19.355925 -3.86746,2.232939 v 3.562573 l 3.86746,-2.233456 v -3.381705 z" />
+          <path
+             id="path7571"
+             style="fill:#0a8dfd;fill-opacity:1;stroke:none;stroke-width:0.0372371;stroke-linecap:round"
+             inkscape:transform-center-x="-2.6018948"
+             inkscape:transform-center-y="-5.7409507e-06"
+             d="m 134.15958,59.503171 v 18.026653 l 3.86762,-2.232959 V 61.736134 Z" />
+          <path
+             id="path8251"
+             style="fill:#9750ae;fill-opacity:1;stroke:none;stroke-width:0.0854537;stroke-linecap:round"
+             inkscape:transform-center-x="-5.9709749"
+             inkscape:transform-center-y="-7.5622234e-06"
+             d="m 138.0272,58.174192 v 3.57756 l 6.19703,3.578076 v -3.577559 z m 6.19703,13.52889 -6.19703,3.578077 v 3.577555 l 6.19703,-3.577555 z" />
+          <path
+             id="path7627"
+             style="fill:#fb2576;fill-opacity:1;stroke:none;stroke-width:0.0558922;stroke-linecap:round"
+             inkscape:transform-center-x="-3.9054049"
+             inkscape:transform-center-y="-6.2536324e-06"
+             d="m 144.22423,61.751752 v 3.578076 l 5.51905,3.186886 -5.51905,3.186368 v 3.578077 l 11.71608,-6.764445 z" />
+        </g>
+        <path
+           sodipodi:type="star"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0529167;stroke-linecap:round"
+           id="path9441"
+           inkscape:flatsided="true"
+           sodipodi:sides="3"
+           sodipodi:cx="244.50807"
+           sodipodi:cy="67.601044"
+           sodipodi:r1="3.2107995"
+           sodipodi:r2="1.6053996"
+           sodipodi:arg1="2.0943951"
+           sodipodi:arg2="3.1415927"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 242.90267,70.381678 0,-5.561268 4.8162,2.780634 z"
+           inkscape:transform-center-x="-0.33423178"
+           transform="matrix(0.41638688,0,0,0.41638688,-27.128836,104.2105)"
+           inkscape:transform-center-y="4.3625546e-06" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.79058px;line-height:1.25;font-family:Aquire;-inkscape-font-specification:'Aquire Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.263717"
+         x="81.487625"
+         y="135.28156"
+         id="text9445"><tspan
+           sodipodi:role="line"
+           id="tspan9443"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Aquire;-inkscape-font-specification:'Aquire Bold';fill:#ffffff;stroke-width:0.263717"
+           x="81.487625"
+           y="135.28156">movinfo</tspan></text>
+    </g>
+  </g>
+</svg>
