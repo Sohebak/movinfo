@@ -11,7 +11,7 @@ import { useRef } from "react";
 
 
 // eslint-disable-next-line react/prop-types
-const Cast = ({ data, loading }) => {
+const Cast = ({ data, loading, bvalue }) => {
   const castContainer = useRef()
   const { url } = useSelector((state) => state.home);
   const navigate = useNavigate()
@@ -45,14 +45,19 @@ const navigation = (dir) => {
     <div className="castSection">
       <ContentWrapper>
         <div className="sectionHeading">Top Cast</div>
-        <MdArrowBackIos
-          className="carouselLeftNav arrow"
-          onClick={() => navigation("left")}
-        />
+        {data?.length > 6 && (
+          <MdArrowBackIos
+            className="carouselLeftNav arrow"
+            onClick={() => navigation("left")}
+          />
+        )}
+        
+        {data?.length > 6 && (
         <MdArrowForwardIos
           className="carouselRightNav arrow"
           onClick={() => navigation("right")}
         />
+        )}
         {!loading ? (
           <div className="listItems" ref={castContainer}>
             {data?.map((item) => {

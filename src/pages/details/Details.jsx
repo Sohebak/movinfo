@@ -16,7 +16,7 @@ const Details = () => {
   return (
     <div className="detailsBanner">
       <DetailsBanner video={data?.results?.[0]} crew={credits?.crew} />
-      {credits?.cast.length !== 0 && <Cast data={credits?.cast} loading={creditsLoading} />}
+      {credits?.cast.length !== 0 && <Cast data={credits?.cast} loading={creditsLoading}  />}
       {data?.results.length !== 0 && <VideosSection data={data?.results} loading={loading} />}
       <Similar mediaType={mediaType} id={id} />
       <Recommendation mediaType={mediaType} id={id} />

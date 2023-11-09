@@ -41,14 +41,18 @@ const VideosSection = ({ data, loading }) => {
     <div className="videosSection">
       <ContentWrapper>
         <div className="sectionHeading">Official Videos</div>
+          {data?.length > 3 && (
         <MdArrowBackIos
           className="carouselLeftNav arrow"
           onClick={() => navigation("left")}
         />
+          )}
+          {data?.length > 3 && (
         <MdArrowForwardIos
           className="carouselRightNav arrow"
           onClick={() => navigation("right")}
         />
+          )}
         {!loading ? (
           <div className="videos" ref={videoContainer}>
             {data?.map((video) => {
