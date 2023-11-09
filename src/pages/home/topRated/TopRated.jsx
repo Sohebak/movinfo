@@ -4,7 +4,7 @@ import SwitchTabs from "../../../components/SwitchTabs/SwitchTabs";
 import useFetch from "../../../hooks/useFetch";
 import Carousel from "../../../components/carousel/Carousel";
 
-const Popular = () => {
+const TopRated = () => {
   const [endpoint, setEndpoint] = useState("movie");
   const { data, loading } = useFetch(`/${endpoint}/top_rated`);
 
@@ -23,4 +23,4 @@ const Popular = () => {
   );
 };
 
-export default Popular;
+export default TopRated;
