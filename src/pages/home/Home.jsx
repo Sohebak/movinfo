@@ -3,7 +3,7 @@ import Popular from './popular/Popular';
 import "./styles.scss";
 import Trending from './trending/Trending';
 import TopRated from './toprated/TopRated';
-import Upcoming from './Upcoming/Upcoming';
+import Upcoming from './upcoming/Upcoming';
 
 
 const Home = () => {

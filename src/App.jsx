@@ -9,7 +9,7 @@ import { getApiConfiguration, getGenres } from "./store/homeSlice";
 // Components and Pages
 import Home from "./pages/home/Home";
 import Header from "./components/Header/Header";
-import Footer from "./components/Footer/Footer";
+import Footer from "./components/footer/Footer";
 import Explore from "./pages/explore/Explore";
 import Details from "./pages/details/Details";
 import PageNotFound from "./pages/404/PageNotFound";
