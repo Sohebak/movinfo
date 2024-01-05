@@ -2,7 +2,7 @@ import HeroBanner from './heroBanner/HeroBanner';
 import Popular from './popular/Popular';
 import "./styles.scss";
 import Trending from './trending/Trending';
-import TopRated from './toprated/TopRated';
+import TopRated from './TopRated/TopRated';
 import Upcoming from './upcoming/Upcoming';
 
 
